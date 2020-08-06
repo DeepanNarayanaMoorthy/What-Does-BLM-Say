@@ -2,8 +2,9 @@
 ## Scraping BLM Tweets
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kl2d0Hd8lBDPtgEYfosLHHGNZsJP82Ge?usp=sharing)
-  -From Normal People
-  -From News Channels
+
+  - From Normal People
+  - From News Channels
 
 ## What does BLM say Part 1
 
