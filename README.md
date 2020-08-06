@@ -28,6 +28,6 @@
     - Plotting Frequencies of Nouns
   - Finding Similar Tweets
     - Top 25 Tweets in Similarity
-      - Scatter Plot
+      - Similarity Heat Map
   - Elementary Sentiment Analysis
 
