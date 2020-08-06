@@ -9,7 +9,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uJGS9bT9j_2w-WlcKmzFJijFPprSN07D?usp=sharing)
 
-  --Extracting Emojis
+  - Extracting Emojis
   - Cluster Identification on BLM Tweets
   - Cluster Identification on BLM News Tweets
     - Cluster Identification for All news network
