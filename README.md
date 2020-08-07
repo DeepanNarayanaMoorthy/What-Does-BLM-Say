@@ -3,18 +3,33 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kl2d0Hd8lBDPtgEYfosLHHGNZsJP82Ge?usp=sharing)
 
+- Scraped BLM Tweets using GetOldTweets3
   - From Normal People
   - From News Channels
-
+      - The New York Times 
+      - BBCbreaking
+      - The Economist
+      - Reuters
+      - Wall Street Journal 
+      - Financial Times
+      - Guardian
+      - Daily Wire
+      - CNN
+      - MSNBC
+      - Blaze TV
+      - Free Speech TV
+      - HGTV
+  
 ## What does BLM say Part 1
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uJGS9bT9j_2w-WlcKmzFJijFPprSN07D?usp=sharing)
 
   - Extracting Emojis
-  - Cluster Identification on BLM Tweets
-  - Cluster Identification on BLM News Tweets
-    - Cluster Identification for All news network
-    - Cluster Identification for individual news network
+  - Cluster Identification Using K Means Clustering from SciKit-Learn on
+    - BLM Tweets
+    - BLM News Tweets
+      - Cluster Identification for All news network
+      - Cluster Identification for individual news network
   - Sentiment Analysis based on Emojis
   - Sentiment Analysis on News Channel Tweets
 
