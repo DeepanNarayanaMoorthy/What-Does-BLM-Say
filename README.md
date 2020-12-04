@@ -45,16 +45,5 @@
     - Top 25 Tweets in Similarity
       - Similarity Heat Map
   - Elementary Sentiment Analysis
-  
-  ## asd
-  - asd
-    - asd
-      - asd
-        - aad
-          - asd
-            - asd
-              - asd
-                - asd
-                  - asd
-          
+
 
